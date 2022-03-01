@@ -1,0 +1,2 @@
+# zigou-cdn
+npm
