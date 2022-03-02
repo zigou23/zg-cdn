@@ -1,0 +1,23 @@
+{
+  "name": "zg-cdn",
+  "version": "1.0.0",
+  "description": "静态资源库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zg23/zg-cdn.git"
+  },
+  "keywords": [
+    "static-resources"
+  ],
+  "author": "zg23",
+  "license": "MIT"
+},
+  "bugs": {
+    "url": "https://github.com/zg23/zg-cdn/issues"
+  },
+  "homepage": "https://github.com/zg23/zg-cdn#readme"
+}
