@@ -3,14 +3,16 @@
   中文 /
   <a title="English" href="#">US</a>
 </div>
+<div align="center">
+  <h1><a href="https://github.com/zigou23/zg-cdn/" target="_blank">My CDN</a></h1>
+  <p align="center">一个npm包</p>
 
-<h1 align="center"><a href="https://github.com/zigou23/zg-cdn/" target="_blank">My CDN</a></h1>
-<p align="center">一个npm包</p>
+[![File](https://img.shields.io/badge/-file-1081c1?logo=read-the-docs)](https://cdn.jsdelivr.net/npm/zg-cdn/)
+[![Version](https://img.shields.io/npm/v/zg-cdn?color=critical&logo=npm)](https://cdn.jsdelivr.net/npm/zg-cdn/)
+[![MIT](https://img.shields.io/github/license/zigou23/zg-cdn?color=FF5531)](https://github.com/zigou23/zg-cdn/blob/master/LICENSE)
 
-<p align="center">
-    <a href="https://cdn.jsdelivr.net/npm/zg-cdn/" target="_blank"><img src="https://img.shields.io/badge/-file-1081c1?logo=read-the-docs" alt="File"></a>
-    <a href="https://cdn.jsdelivr.net/npm/zg-cdn/"><img src="https://img.shields.io/npm/v/zg-cdn?color=critical&logo=npm" alt="Version"></a>
-<!--     <img src="https://img.shields.io/npm/dm/zg-cdn" alt="Downloads"> -->
-    <a href="https://github.com/zigou23/zg-cdn/blob/master/LICENSE"><img src="https://img.shields.io/github/license/zigou23/zg-cdn?color=FF5531" alt="MIT"></a>
-</p>
-
+[📘文档](https://cdn.jsdelivr.net/npm/zg-cdn/) |
+[🤔报告问题](https://github.com/zigou23/zg-cdn/issues/new/)
+<!-- [🛠️安装](https://mmrotate.readthedocs.io/en/latest/install.html) |
+[👀模型库](docs/en/model_zoo.md) | -->
+</div>
