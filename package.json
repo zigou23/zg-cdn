@@ -8,16 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zg23/zg-cdn.git"
+    "url": "git+https://github.com/zigou23/zg-cdn.git"
   },
   "keywords": [
     "static-resources"
   ],
-  "author": "zg23",
+  "author": "zigou23",
   "license": "MIT"
-},
-  "bugs": {
-    "url": "https://github.com/zg23/zg-cdn/issues"
-  },
-  "homepage": "https://github.com/zg23/zg-cdn#readme"
 }
